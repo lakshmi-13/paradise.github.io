@@ -1,0 +1,101 @@
+.stylinglogo{
+    width: 200px;
+    height: 70px;
+    padding: 5px;
+    padding-left: 35px;
+}
+#go{
+    color: black;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+#go:hover{
+    color:red;
+    border: 0px;
+}
+#gool{
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    margin-left: 20px;
+}
+#gool:hover{
+    color: red;
+    background-color: grey;
+}
+.bgimg1{
+    background-image: url("https://img.freepik.com/premium-photo/paneer-butter-masala-cheese-cottage-curry-is-rich-creamy-curry-made-with-paneer-spices-onions-tomatoes-cashews-butter_466689-79179.jpg?w=740");
+    background-size: cover;
+    height: 120vh;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bolder;
+    color:purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    color:palevioletred;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+}
+.buttonst{
+    color: white;
+    background-color:orange;
+    width: 230px;
+    height: 45px;
+    border-radius: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.bgcolor2{
+    background-color: white;
+}
+.head2{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.para2{
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.carding{
+    text-align: center;
+    background-color:white ;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.cardimage{
+    width: 90px;
+    height: 70px;
+}
+.chead{
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cpara{
+    color: #7b8794;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
